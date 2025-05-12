@@ -26,7 +26,7 @@ This project integrates several Python libraries to deliver a seamless experienc
 
 ---
 ### **Prerequisites** 📋
-To get VeerAI up and running, you need the following Python libraries, which are already included in the repository:
+To get VeerAI up and running, you need the following Python libraries, which you need to install using `pip install` command:
 
 - `speechrecognition`
 - `pyttsx3`
