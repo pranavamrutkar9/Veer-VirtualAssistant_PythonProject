@@ -32,3 +32,4 @@ To get VeerAI up and running, you need the following Python libraries, which you
 - `pyttsx3`
 - `requests`
 - `webbrowser` (built-in library, no need to install)
+- Add your own API key for news headlines.
